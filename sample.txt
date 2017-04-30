@@ -1,2 +1,5 @@
  Hi 
  This is test case file
+ Adding third line to the file
+ fine
+
